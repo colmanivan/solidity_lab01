@@ -5,7 +5,7 @@ library StructuresLibrary {
     struct EmployeeStruct{
         bytes32 Id;
         string Name;
-        string Surame;
+        string Surname;
         uint FileNumber;
         uint Age;
     }
